@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Shobhit-Kumar-Yadav
-- 👀 I’m a Web Developer
-- 🌱 MERN Stack Developer
 
 
 <!---
